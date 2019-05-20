@@ -1,5 +1,5 @@
 # bookmarks-for-java-learning
-书签中的一些资源——Java学习路上的网站收藏
+书签中的一些资源——Java学习路上的网站收藏  一直更新中~
 
 ## 视频学习网站
 
@@ -14,3 +14,24 @@
 | 扣丁学堂 | http://www.codingke.com/java/ | 千锋的培训视频，适合用来补漏 | \*\*\* |
 
 ## 学习手册
+| 网站名称 | 网址 | 简介 | 推荐指数 |
+| :-: | :-: | :-: | :-: |
+| w3cschool | http://www.w3cschool.cn/ | 免费的在线教程&技术文档 | \*\*\*\*\* |
+| 易百教程 | https://www.yiibai.com/ | 专注IT教程和实例 | \*\*\*\*\* |
+| 菜鸟教程 | http://www.runoob.com/ | 学的不仅仅是技术，更是梦想 | \*\*\*\*\* |
+| 手册网 | http://www.shouce.ren/ | 亮点在于在线文档 | \*\*\*\*\* |
+| 极客学院wiki | http://wiki.jikexueyuan.com/ | IT技术图文教程库 | \*\*\*\*\* |
+| Linux命令大全 | http://man.linuxde.net/ | 程序员怎么能不了解点Linux | \*\*\*\*\* |
+
+## 博客论坛
+| 网站名称 | 网址 | 简介 | 推荐指数 |
+| :-: | :-: | :-: | :-: |
+| 博客园 | https://www.cnblogs.com/ | 用户广,界面清爽，建议使用该平台进行输出 | \*\*\*\*\* |
+| CSDN | https://www.csdn.net/ | 文章很全，但是广告略多，手机上浏览器访问一直提示安装app | \*\*\*\* |
+| StackOverFlow | https://stackoverflow.com | 推荐，但国内正常访问的话浏览速度过慢，此外需要一定英文阅读能力 | \*\*\*\*\* |
+| IBM developerWorks | https://www.ibm.com/developerworks/cn/java/ | IBM出品，数量少，但精品多 | \*\*\*\*\* |
+| ImportNew | http://www.importnew.com/ | 专注Java & Android技术分享，多为文章转载及翻译，*面向对象*不错 | \*\*\*\* |
+| SegmentFault思否 | https://segmentfault.com/ | 社区，界面清爽，模块很全，不仅仅局限于技术分享 | \*\*\*\*\* |
+| 51CTO | https://blog.51cto.com/ | 原创IT技术文章分享及交流 | \*\*\*\*\* |
+| ITeye | https://www.iteye.com/ | 较早的技术网站，目前活跃度不高，但之前的文章不乏精品，属于csdn？ | \*\*\*\* |
+| 看云 | https://www.kancloud.cn/ | 在线技术文档阅读，部分图书需付费 | \*\*\*\* |
