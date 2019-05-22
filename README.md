@@ -21,7 +21,6 @@
 | 菜鸟教程 | http://www.runoob.com/ | 学的不仅仅是技术，更是梦想 | \*\*\*\*\* |
 | 手册网 | http://www.shouce.ren/ | 亮点在于在线文档 | \*\*\*\*\* |
 | 极客学院wiki | http://wiki.jikexueyuan.com/ | IT技术图文教程库 | \*\*\*\*\* |
-| Linux命令大全 | http://man.linuxde.net/ | 程序员怎么能不了解点Linux | \*\*\*\*\* |
 
 ## 博客论坛
 | 网站名称 | 网址 | 简介 | 推荐指数 |
@@ -35,3 +34,16 @@
 | 51CTO | https://blog.51cto.com/ | 原创IT技术文章分享及交流 | \*\*\*\*\* |
 | ITeye | https://www.iteye.com/ | 较早的技术网站，目前活跃度不高，但之前的文章不乏精品，属于csdn？ | \*\*\*\* |
 | 看云 | https://www.kancloud.cn/ | 在线技术文档阅读，部分图书需付费 | \*\*\*\* |
+
+## 单向技术
+| 网站名称 | 网址 | 简介 | 推荐指数 |
+| :-: | :-: | :-: | :-: |
+| 并发编程网 | http://ifeve.com/ | 深入了解并发 | \*\*\*\*\* |
+| Linux命令大全 | http://man.linuxde.net/ | 程序员怎么能不了解点Linux | \*\*\*\*\* |
+| SpringBoot中文导航 | http://springboot.fun/ | SpringBoot生态相关技术及项目 | \*\*\*\*\* |
+| Bootstrap中文网 | http://www.bootcss.com/ | Bootstrap中文网站，集成了Bootstrap相关优质项目 | \*\*\*\*\* |
+| Redis中文网 | http://www.redis.cn/ | redis技术社区 | \*\*\*\*\* |
+| Mybatis参考文档 | http://www.mybatis.org/mybatis-3/zh/index.html | mybatis参考的中文版翻译 | \*\*\*\*\* |
+
+
+
