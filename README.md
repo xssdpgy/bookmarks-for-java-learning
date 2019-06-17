@@ -34,6 +34,7 @@
 | 51CTO | https://blog.51cto.com/ | 原创IT技术文章分享及交流 | \*\*\*\*\* |
 | ITeye | https://www.iteye.com/ | 较早的技术网站，目前活跃度不高，但之前的文章不乏精品，属于csdn？ | \*\*\*\* |
 | 看云 | https://www.kancloud.cn/ | 在线技术文档阅读，部分图书需付费 | \*\*\*\* |
+| 活动家IT技术会议文档 | https://doc.huodongjia.com/ | IT技术会议讲座PPT免费观看 | \*\*\*\* |
 
 ## 单向技术
 | 网站名称 | 网址 | 简介 | 推荐指数 |
