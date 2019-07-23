@@ -46,5 +46,11 @@
 | Redis中文网 | http://www.redis.cn/ | redis技术社区 | \*\*\*\*\* |
 | Mybatis参考文档 | http://www.mybatis.org/mybatis-3/zh/index.html | mybatis参考的中文版翻译 | \*\*\*\*\* |
 
+## 工具
+| 网站名称 | 网址 | 简介 | 推荐指数 |
+| :-: | :-: | :-: | :-: |
+| searchcode | https://searchcode.com/ | 查询开源的源代码 | \*\*\*\*\* |
+
+
 
 
