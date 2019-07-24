@@ -50,7 +50,7 @@
 | 网站名称 | 网址 | 简介 | 推荐指数 |
 | :-: | :-: | :-: | :-: |
 | searchcode | https://searchcode.com/ | 查询开源的源代码 | \*\*\*\*\* |
-
+| Neat Reader | https://www.neat-reader.cn/ | 电脑端的epub阅读器，目前阅读体验最好，没有之一 | \*\*\*\*\* |
 
 
 
